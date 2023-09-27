@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31611.283
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maui.StoreLocalData.Compare", "Maui.StoreLocalData.Compare\Maui.StoreLocalData.Compare.csproj", "{70D8E88E-AFC6-403A-851C-8170EFF6CCF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maui.StoreLocalData.SqlLiteExample", "Maui.StoreLocalData.SqlLiteExample\Maui.StoreLocalData.SqlLiteExample.csproj", "{0C3FC6F6-160C-4C8A-BA99-C21E431FD7F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maui.StoreLocalData.Practice", "Maui.StoreLocalData.Practice\Maui.StoreLocalData.Practice.csproj", "{F9354D4D-5DE4-47DA-9961-C4C291D435C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.StoreLocalData.AsyncExample", "Maui.StoreLocalData.AsyncExample\Maui.StoreLocalData.AsyncExample.csproj", "{D71C4CF4-A0C8-472B-B4F1-A1FF628C5C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.StoreLocalData.Async.Practice", "Maui.StoreLocalData.Async.Practice\Maui.StoreLocalData.Async.Practice.csproj", "{E1022106-D2FC-442A-ADA4-A16C3680C53D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D8E88E-AFC6-403A-851C-8170EFF6CCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D8E88E-AFC6-403A-851C-8170EFF6CCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D8E88E-AFC6-403A-851C-8170EFF6CCF2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{70D8E88E-AFC6-403A-851C-8170EFF6CCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D8E88E-AFC6-403A-851C-8170EFF6CCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D8E88E-AFC6-403A-851C-8170EFF6CCF2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0C3FC6F6-160C-4C8A-BA99-C21E431FD7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3FC6F6-160C-4C8A-BA99-C21E431FD7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3FC6F6-160C-4C8A-BA99-C21E431FD7F2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0C3FC6F6-160C-4C8A-BA99-C21E431FD7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3FC6F6-160C-4C8A-BA99-C21E431FD7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3FC6F6-160C-4C8A-BA99-C21E431FD7F2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F9354D4D-5DE4-47DA-9961-C4C291D435C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9354D4D-5DE4-47DA-9961-C4C291D435C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9354D4D-5DE4-47DA-9961-C4C291D435C1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F9354D4D-5DE4-47DA-9961-C4C291D435C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9354D4D-5DE4-47DA-9961-C4C291D435C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9354D4D-5DE4-47DA-9961-C4C291D435C1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D71C4CF4-A0C8-472B-B4F1-A1FF628C5C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71C4CF4-A0C8-472B-B4F1-A1FF628C5C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71C4CF4-A0C8-472B-B4F1-A1FF628C5C7D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D71C4CF4-A0C8-472B-B4F1-A1FF628C5C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71C4CF4-A0C8-472B-B4F1-A1FF628C5C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71C4CF4-A0C8-472B-B4F1-A1FF628C5C7D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E1022106-D2FC-442A-ADA4-A16C3680C53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1022106-D2FC-442A-ADA4-A16C3680C53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1022106-D2FC-442A-ADA4-A16C3680C53D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E1022106-D2FC-442A-ADA4-A16C3680C53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1022106-D2FC-442A-ADA4-A16C3680C53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1022106-D2FC-442A-ADA4-A16C3680C53D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+	EndGlobalSection
+EndGlobal
